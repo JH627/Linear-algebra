@@ -1,3 +1,5 @@
-# LA2
+# Linear-algebra
 
-파이썬을 이용한 Linear algebra 실습
+### Linear-algebra 실습 (2023-1)
+
+
